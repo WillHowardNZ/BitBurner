@@ -1,5 +1,6 @@
 /** @param {NS} ns **/
 export async function main(ns) {
+/* Script to attack all servers, and apply on-hack using "SmolHack.js" to all Earnable servers. (Servers that are currently hackable).*/
 
 	function serverCheck(target) {
 		/* target */
